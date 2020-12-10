@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {"item": "minecraft:light_blue_dye" }
+        ],
+        [
+            { "item": "minecraft:gold_ingot" }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
+
+gives 2 emeralds and has 2 max crafts
