@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "uhcrecipies:vorpal_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "uhcrecipies:crafted_vorpal_sword"
+    }
+}

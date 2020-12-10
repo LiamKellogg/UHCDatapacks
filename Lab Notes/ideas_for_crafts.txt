@@ -1,0 +1,11 @@
+D.I.Y civilization:
+- Counterfeit emerald (gives 2 per has 2 max crafts): gold/iron ingot with 2 lime dye
+- Quick Bed (3 max crafts): 2 wool 2 planks
+- Hay bales (3 max crafts): alternating string and yellow dye
+- Farming package: gives 12 seeds of wheat, 12 potato, and 12 carrot, Composter, and an iron hoe
+      1 max craft: 3x3 random seeds with bone meal in the center
+- Iron Golem spawn egg (has 50hp and ingots heal for 4 hearts) 1 craft: 2 iron block 2 ingots and Redstone block for head
+
+Nether Born
+- Hoglin's annoyance (1 max crafts) gives knockback I book: 1 uncooked pork, 3 crimson netherrack, 1 golden sword
+- Wither Sword: Stone sword that does 2 less dps but gives 2 seconds of wither I

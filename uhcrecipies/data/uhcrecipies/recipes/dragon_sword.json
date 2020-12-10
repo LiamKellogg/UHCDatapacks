@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 2 ",
+        " 1 ",
+        "323"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:diamond_sword"
+        },
+        "2": {
+            "item": "minecraft:blaze_powder"
+        },
+        "3": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

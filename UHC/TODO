@@ -1,0 +1,24 @@
+1. Event Start
+2. Create the shell for the game
+    a. Start method
+    b. afk handling (kick from event if dc happens for now the zombie thing is way too hard)
+    c. ending a game
+    d. Deathmatch
+3. Tool enchant method
+4. Custom world gen with slightly better diamond rates
+5. Border and nether handling
+6. tp without dying
+7. Custom loot tables for mobs
+8. Time till pvp
+
+# add barriers to the bottom of the arena
+# Shrink border and start timetilldm when there are four or less players
+# Border shrinks to 750 after 10 minutes, 500 after +5, 250 after +5
+# If there are 4 players in the event, then set a 20 minute timer
+
+
+What we are NOT DOING
+- Gheads
+- Teams
+- Auto tree felling
+- hastybois

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "3  ",
+        " 22",
+        " 21"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:iron_sword"
+        },
+        "2": {
+            "item": "minecraft:paper"
+        },
+        "3": {
+          "item": "minecraft:flint"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "uhcrecipies:gold_pack"
+            }
+        }
+    },
+    "rewards": {
+        "function": "uhcrecipies:crafted_gold_pack"
+    }
+}

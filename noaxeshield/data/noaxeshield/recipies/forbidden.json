@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            { "item": "white_carpet" }
+        ],
+        [
+            { "item": "red_mushroom" }
+        ],
+        [
+            { "item": "mycelium" }
+        ]
+    ],
+    "result": { "item": "minecraft:stal" }
+}

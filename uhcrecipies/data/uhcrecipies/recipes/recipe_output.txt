@@ -1,0 +1,1 @@
+pytestautogen: minecraft:cobblestone 6

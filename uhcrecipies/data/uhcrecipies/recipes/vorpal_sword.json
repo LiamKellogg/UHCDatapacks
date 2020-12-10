@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 1 ",
+        " 2 ",
+        " 3 "
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:bone"
+        },
+        "2": {
+            "item": "minecraft:iron_sword"
+        },
+        "3": {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

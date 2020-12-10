@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "2 1",
+        "333",
+        " 3 "
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:emerald_block"
+        },
+        "2": {
+            "item": "minecraft:diamond_block"
+        },
+        "3": {
+            "item": "minecraft:gold_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
+
+Gives a totem of undying, max craft 1
