@@ -21,3 +21,8 @@ give @s minecraft:player_head{display:{Name:"{\"text\":\"Golden Head\",\"bold\":
 #   Speed 6 2
 #   Regeneration 4 2
 # Clear tag from players
+
+# Problems:
+# - Will not remove heads in order of hotbar to inventory to offhand, this is minor but the fix is a lot since we cant run a replaceitem
+# - If the player places the ghead it turns back into a regular playerhead
+# - The player can stop sneaking in between and the sneak timer does not reset. This doesn't really matter.

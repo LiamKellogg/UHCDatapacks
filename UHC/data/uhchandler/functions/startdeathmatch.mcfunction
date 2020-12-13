@@ -1,8 +1,13 @@
 # setup the structure blocks, then load that baby in
 #setblock ~ ~ ~ minecraft:structure_block[mode=load]{mirror:"NONE", ignoreEntities:1b, powered:0b, seed:0L, author:"LamTheNurd", rotation:"NONE", mode:"LOAD", posX: 0, posY:0, posZ: 0, sizeX:32, integrity:1.0f, showair:0b, name:"moderncombat:<bedrock#>", sizeY:32, sizeZ:32, showboundingbox:1b}
 
+# Make it so that 8 people can be in deathmatch
+# Make more chests and cornucopia and randomize loot tables for chests
+
 gamerule doMobSpawning false
 gamerule doMobLoot false
+time set 5000
+gamerule doDaylightCycle false
 
 setblock 0 100 0 minecraft:structure_block[mode=load]{mirror:"NONE", ignoreEntities:0b, powered:0b, seed:0L, author:"LamTheNurd", rotation:"NONE", mode:"LOAD", posX: 0, posY:0, posZ: 0, sizeX:34, integrity:1.0f, showair:0b, name:"uhchandler:deathmatchquart", sizeY:34, sizeZ:34, showboundingbox:1b}
 setblock 0 101 0 minecraft:redstone_block

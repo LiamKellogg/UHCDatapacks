@@ -7,5 +7,14 @@ D.I.Y civilization:
 - Iron Golem spawn egg (has 50hp and ingots heal for 4 hearts) 1 craft: 2 iron block 2 ingots and Redstone block for head
 
 Nether Born
-- Hoglin's annoyance (1 max crafts) gives knockback I book: 1 uncooked pork, 3 crimson netherrack, 1 golden sword
+- Hoglin's annoyance (1 max crafts) gives knockback I book: 1 uncooked pork, 3 crimson netherrack, 1 golden sword (any durability)
 - Wither Sword: Stone sword that does 2 less dps but gives 2 seconds of wither I
+- Demon Chestplate (diamond chestplate that gives -2 hearts when worn but ): diamond chestplate, 1 shroomlight, 2 warped or crimson leaves
+
+Gunslinging
+- Piercing I book (3 max crafts): firework rocket, 3 paper, 1 stone axe
+- Harming arrow craft: (Fermented Spider eye surrounded by the arrow pack) (2 max crafts): 6 arrows
+- Bocquet (3 max crafts): four seeds around a flower gives 6 random flowers
+- Gunpowder pack (alternating gunpowder and sand in a 2x3, 3 max craft): gives 5 gunpowder
+- Multishot book (1 max craft): 3 paper 2 bows 1 firework rocket
+Make quick charge an ultimate book, like (sharp III power IV prot IV Quick charge II)

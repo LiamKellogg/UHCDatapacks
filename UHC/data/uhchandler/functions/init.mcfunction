@@ -1,5 +1,7 @@
-gamerule doDaylightCycle false
+gamerule doDaylightCycle true
+time set 0
 gamerule doWeatherCycle false
+weather clear
 gamerule doMobSpawning true
 gamerule doMobLoot true
 
@@ -38,6 +40,11 @@ scoreboard players set timetillpvp clock 900
 scoreboard players set timetilldm clock 300
 scoreboard players set seconds clock -1
 scoreboard players set ticks clock 0
+
+# Sneak Time
+scoreboard objectives remove sneakTime
+scoreboard objectives add sneakTime minecraft.custom:minecraft.sneak_time
+scoreboard players set consumableTime sneakTime 30
 
 # Tag reset
 tag @a remove Event

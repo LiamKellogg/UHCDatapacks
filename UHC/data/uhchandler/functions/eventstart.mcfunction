@@ -1,5 +1,5 @@
 function uhchandler:init
-tag @a add Event
+tag @a[gamemode=!creative] add Event
 # Spread players
 spreadplayers 0 0 75 500 false @a[tag=Event]
 
@@ -7,13 +7,14 @@ spreadplayers 0 0 75 500 false @a[tag=Event]
 worldborder center 0 0
 worldborder set 1050 1
 
-# add players to hearts and deathTrigger
+# add players to scoreboards
 scoreboard players add @a[tag=Event] playerHearts
 scoreboard players add @a[tag=Event] deathTrigger
+scoreboard players set @a[tag=Event] sneakTime 0
 
 # disable pvp
 team empty nopvp
-team add nopvp "PVP is disabled, pls dont break the rules"
+team add nopvp "PVP is disabled, pls dont cheese the rules"
 execute as @a[tag=Event] run team join nopvp
 team modify nopvp collisionRule never
 team modify nopvp color red
