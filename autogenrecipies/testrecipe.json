@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "111",
+      "#2#",
+      "3#3"
+    ],
+    "key": {
+      "1": {
+        "item": "minecraft:stone"
+      },
+      "2": {
+        "item": "minecraft:tnt"
+      },
+      "3": {
+        "item": "minecraft:blaze_powder"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book",
+      "count": 1
+    }
+}
+max crafts: 2,
+apple.2<end>

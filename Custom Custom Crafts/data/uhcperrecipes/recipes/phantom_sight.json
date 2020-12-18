@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 3 ",
+        " 2 ",
+        " 1 "
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:glass_bottle"
+        },
+        "2": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "3": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
+
+potion that gives glowing to 7 nearby mobs and up to 2 players for 15 seconds

@@ -1,19 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "111",
         " 2 ",
-        "3 3"
+        "212",
+        " 2 "
     ],
     "key": {
         "1": {
-            "item": "minecraft:stone"
+            "item": "minecraft:honey_bottle"
         },
         "2": {
-            "item": "minecraft:tnt"
-        },
-        "3": {
-          "item": "minecraft:blaze_powder"
+            "item": "minecraft:string"
         }
     },
     "result": {
@@ -21,3 +18,7 @@
         "count": 1
     }
 }
+
+Gives 2 phantom membranes and glass_bottle
+
+Can be used to craft wings or phantom axe

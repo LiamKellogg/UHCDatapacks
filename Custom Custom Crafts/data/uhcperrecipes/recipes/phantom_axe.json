@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "31 ",
+        "12 ",
+        " 2 "
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "2": {
+            "item": "minecraft:stick"
+        },
+        "3": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
+
+Gives iron axe, when this hits an opponent they get slow falling for 2 seconds

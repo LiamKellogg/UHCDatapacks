@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "222",
+        "121",
+        "323"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "2": {
+            "item": "minecraft:stick"
+        },
+        "3": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
+
+Gives elytra with 5 seconds of flight (5 durability), max craft 1 cannot be used
+on an anvil
