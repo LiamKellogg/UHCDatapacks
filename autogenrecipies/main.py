@@ -41,7 +41,7 @@ def makeFunctionFile(file):
 
     itemReward = txt[maxcraftEnd + 1:txt.find("<end>")].replace('.', ' ')
 
-    file = open("crafted" + recipeName + ".mcfunction", 'w+')
+    # file = open("crafted_" + recipeName + ".mcfunction", 'w+')
     for i in functionTemplate:
         file.write(i.replace("<namespace>", namespace)
         .replace("<recipe>", recipeName)
@@ -61,20 +61,12 @@ def makeFunctionFile(file):
     return
 
 
+def makeAdvancementFile(file):
+
+
+
 def main():
     functionFile = makeFunctionFile(open("crafted" + recipeName + ".mcfunction", 'w+'))
 
 if __name__ == "__main__":
     main()
-
-# FUNCTION file: ---crafted_<name of recipe>.mcfunction
-# <recipe> = name of recipe
-# <namespace> = namespace of datapack
-# <max_craft> = number of maximum crafts
-# <reward_item> = the reward item
-# <reward_item_ct>  = the reward item count
-# <ingredient[i][0]> = tuple array for ingredients and count
-
-# ADVANCEMENT: <name of recipe>_adv.json
-# We could copy a template file and recplace a certain string of text with the desired one
-# adv_template.json
